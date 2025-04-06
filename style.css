@@ -39,8 +39,8 @@ h1 {
     margin: 0 auto;
 }
 
-.no-margin {
-    padding: 0 12%;
+.second-row, .third-row {
+    padding: 3em 2em;
     text-align: center;
     width: 100%;
     max-width: 1800px;
